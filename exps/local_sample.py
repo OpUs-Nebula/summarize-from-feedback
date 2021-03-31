@@ -1,6 +1,6 @@
 from summarize_from_feedback import sample
 from summarize_from_feedback.utils import experiment_helpers as utils
-from summarize_from_feedback.utils import query_response_model as run
+from summarize_from_feedback import query_response_model as run
 
 
 # HParams = sample.HParams(
